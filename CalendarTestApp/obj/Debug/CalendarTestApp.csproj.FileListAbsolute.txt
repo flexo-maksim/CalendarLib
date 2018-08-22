@@ -1,0 +1,7 @@
+c:\users\user\source\repos\CalendarTestApp\CalendarTestApp\bin\Debug\CalendarTestApp.exe.config
+c:\users\user\source\repos\CalendarTestApp\CalendarTestApp\bin\Debug\CalendarTestApp.exe
+c:\users\user\source\repos\CalendarTestApp\CalendarTestApp\bin\Debug\CalendarTestApp.pdb
+c:\users\user\source\repos\CalendarTestApp\CalendarTestApp\obj\Debug\CalendarTestApp.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\CalendarTestApp\CalendarTestApp\obj\Debug\CalendarTestApp.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\CalendarTestApp\CalendarTestApp\obj\Debug\CalendarTestApp.exe
+c:\users\user\source\repos\CalendarTestApp\CalendarTestApp\obj\Debug\CalendarTestApp.pdb
